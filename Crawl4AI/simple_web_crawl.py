@@ -1,12 +1,12 @@
 import asyncio
 
-from crawl4ai import AsyncWebCrawler
+from crawl4ai import *
 
 
 async def main():
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(
-            url="https://innohk.gov.hk",
+            url="https://www.nbcnews.com/business",
         )
         print(result.markdown)
 
