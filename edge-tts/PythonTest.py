@@ -4,6 +4,8 @@ import time
 
 import edge_tts
 
+# edge-tts --list-voices
+
 
 async def convert(text, file_name) -> None:
     start_time = time.time()

@@ -17,8 +17,8 @@ async def main():
     )
 
     async with AsyncWebCrawler(config=browser_conf) as crawler:
-        result = await crawler.arun(url="https://www.lib.cuhk.edu.hk/sitemap.xml", config=run_conf)
-        print(result.url)
+        result = await crawler.arun(url="https://www.lib.cuhk.edu.hk/en/", config=run_conf)
+
         with open("output.md", "w", encoding="utf-8") as file:
             file.write(result.markdown)
         with open("raw_output.md", "w", encoding="utf-8") as file:

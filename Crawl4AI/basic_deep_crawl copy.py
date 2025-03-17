@@ -16,15 +16,18 @@ async def main():
     )
 
     async with AsyncWebCrawler() as crawler:
-        results = await crawler.arun("https://cpii.hk/", config=config)
-
-        print(f"Crawled {len(results)} pages in total")
+        results = await crawler.arun("https://cuhk.edu.hk/", config=config)
 
         # Access individual results
         for result in results[:3]:  # Show first 3 results
             print(f"URL: {result.url}")
             print(f"Depth: {result.metadata.get('depth', 0)}")
     time_end = time.time()
+
+    print(f"Crawled {len(results)} pages in total")
+    print(
+        f"Crawled {len(set([item.html for item in results]))} different html pages in total"
+    )
     print("total time cost:", time_end - time_start)
 
 
