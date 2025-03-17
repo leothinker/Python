@@ -5,8 +5,7 @@ from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig
 from crawl4ai.extraction_strategy import JsonCssExtractionStrategy
 
 
-async def extract_structured_data_using_css_extractor():
-    print("\n--- Using JsonCssExtractionStrategy for Fast Structured Output ---")
+async def main():
     schema = {
         "name": "KidoCode Courses",
         "baseSelector": "section.charge-methodology .w-tab-content > div",
@@ -40,37 +39,25 @@ async def extract_structured_data_using_css_extractor():
         ],
     }
 
-    browser_config = BrowserConfig(headless=True, java_script_enabled=True)
+    extraction_strategy = JsonCssExtractionStrategy(schema, verbose=True)
 
-    js_click_tabs = """
-    (async () => {
-        const tabs = document.querySelectorAll("section.charge-methodology .tabs-menu-3 > div");
-        for(let tab of tabs) {
-            tab.scrollIntoView();
-            tab.click();
-            await new Promise(r => setTimeout(r, 500));
-        }
-    })();
-    """
-
-    crawler_config = CrawlerRunConfig(
+    browser_config = BrowserConfig(headless=False, verbose=True)
+    run_config = CrawlerRunConfig(
+        extraction_strategy=extraction_strategy,
+        js_code=[
+            """(async () => {const tabs = document.querySelectorAll("section.charge-methodology .tabs-menu-3 > div");for(let tab of tabs) {tab.scrollIntoView();tab.click();await new Promise(r => setTimeout(r, 500));}})();"""
+        ],
         cache_mode=CacheMode.BYPASS,
-        extraction_strategy=JsonCssExtractionStrategy(schema),
-        js_code=[js_click_tabs],
     )
 
     async with AsyncWebCrawler(config=browser_config) as crawler:
         result = await crawler.arun(
-            url="https://www.kidocode.com/degrees/technology", config=crawler_config
+            url="https://www.kidocode.com/degrees/technology", config=run_config
         )
 
         companies = json.loads(result.extracted_content)
         print(f"Successfully extracted {len(companies)} companies")
         print(json.dumps(companies[0], indent=2))
-
-
-async def main():
-    await extract_structured_data_using_css_extractor()
 
 
 if __name__ == "__main__":
