@@ -1,0 +1,750 @@
+{
+  "internal": [
+    {
+      "href": "https://cuhk.edu.hk/english/",
+      "text": "",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://portal.cuhk.edu.hk/",
+      "text": "MyCUHK",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.lib.cuhk.edu.hk/en",
+      "text": "Library",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/cuhk-information.html",
+      "text": "CUHK A-Z",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/giving.html",
+      "text": "Giving to CUHK",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/",
+      "text": "Shortcuts",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.gs.cuhk.edu.hk/admissions/",
+      "text": "Postgraduate Admissions",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://admission.cuhk.edu.hk/",
+      "text": "Undergraduate Admissions",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.res.cuhk.edu.hk/en-gb/general-information/university-almanac",
+      "text": "University Almanac",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.iso.cuhk.edu.hk/english/publications/facts-and-figures/",
+      "text": "Facts and Figures",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.itsc.cuhk.edu.hk/",
+      "text": "ITSC",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.cuhk.edu.hk/orkts/",
+      "text": "Knowledge Transfer",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/university-publication.html",
+      "text": "University Publications",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://blackboard.cuhk.edu.hk/",
+      "text": "CU Learning Management System",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.res.cuhk.edu.hk/en-gb/",
+      "text": "Registration & Examinations",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cpdc.osa.cuhk.edu.hk/student/login",
+      "text": "Student Job Link",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.cuhk.edu.hk/o365",
+      "text": "Email",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.itsc.cuhk.edu.hk/en/service-status/",
+      "text": "System Availability",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/campus/cuhk-campus-map.html",
+      "text": "Campus Map",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.hro.cuhk.edu.hk/en-GB/career-opportunities",
+      "text": "Career Opportunities",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/campus/campus-transportation.html",
+      "text": "Campus Transportation",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/prospective-students.html",
+      "text": "PROSPECTIVE STUDENTS",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/students.html",
+      "text": "STUDENTS",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/employment.html",
+      "text": "STAFF",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/cuhk-alumni.html",
+      "text": "ALUMNI",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/press-release-events.html",
+      "text": "MEDIA",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/visitors.html",
+      "text": "VISITORS",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/message.html",
+      "text": "About CUHK",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/university-intro.html",
+      "text": "Introducing CUHK",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/cuhk-shenzhen.html",
+      "text": "Introducing CUHK-Shenzhen",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/mission.html",
+      "text": "Mission & Vision, Motto & Emblem",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/governance.html",
+      "text": "Governance",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.cuhk.edu.hk/strategicplan/cuhk2025/",
+      "text": "Strategic Plan 2021—2025",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/cuhk-global.html",
+      "text": "CUHK Global",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/cuhk-rankings.html",
+      "text": "CUHK Rankings",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/general-education.html",
+      "text": "General Education",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/aboutus/enrichment-programmes.html",
+      "text": "Enrichment Programmes",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.cuhk.edu.hk/ugallery/en/zone-a.html",
+      "text": "Milestones",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/cuhk-information.html?area=admin-services",
+      "text": "Administrative Units",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/admissions/admissions.html",
+      "text": "Admissions",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.scs.cuhk.edu.hk/en",
+      "text": "Sub-degree and Continuing Education",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.oal.cuhk.edu.hk",
+      "text": "Exchange Programmes",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.summer.cuhk.edu.hk/",
+      "text": "Summer Programmes",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/system.html",
+      "text": "Colleges",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/info.html",
+      "text": "Our Colleges",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/chung-chi-college.html",
+      "text": "Chung Chi College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/new-asia-college.html",
+      "text": "New Asia College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/united-college.html",
+      "text": "United College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/shaw-college.html",
+      "text": "Shaw College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/morningside-college.html",
+      "text": "Morningside College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/shho-college.html",
+      "text": "S.H. Ho College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/c-w-chu-college.html",
+      "text": "CW Chu College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/wu-yee-sun-college.html",
+      "text": "Wu Yee Sun College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/college/lee-woo-sing-college.html",
+      "text": "Lee Woo Sing College",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/faculty-graduate-school.html",
+      "text": "Faculties",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/arts.html",
+      "text": "Faculty of Arts",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/business-administration.html",
+      "text": "Faculty of Business Administration",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/education.html",
+      "text": "Faculty of Education",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/engineering.html",
+      "text": "Faculty of Engineering",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/law.html",
+      "text": "Faculty of Law",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/medicine.html",
+      "text": "Faculty of Medicine",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/science.html",
+      "text": "Faculty of Science",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/social-science.html",
+      "text": "Faculty of Social Science",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/graduate-school.html",
+      "text": "Graduate School",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/faculties/other-academic-units.html",
+      "text": "Other Academic Units",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/teaching/teaching-quality.html",
+      "text": "Teaching & Learning",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/teaching/senate-committee.html",
+      "text": "Senate Committee on Teaching and Learning",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/teaching/internal-quality-assurance.html",
+      "text": "Quality Assurance",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/teaching/university-curriculum.html",
+      "text": "Academic Curriculum",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/teaching/cuhk-facilities.html",
+      "text": "Facilities & Resources",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/teaching/teaching-supporting-units.html",
+      "text": "Units Supporting Teaching & Learning",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/university-research.html",
+      "text": "Research & Impact",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/innohk-centres.html",
+      "text": "CUHK InnoHK Centres",
+      "title": "RESEARCH & IMPACT: CUHK InnoHK Centres",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/cuhk-innovation-limited.html",
+      "text": "CUHK Innovation Limited",
+      "title": "RESEARCH & IMPACT: CUHK Innovation Limited",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/research-resources.html",
+      "text": "Research Resources",
+      "title": "RESEARCH & IMPACT: Research Resources",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/research-study.html",
+      "text": "Four Strategic Areas of Research",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/excellence.html",
+      "text": "Areas of Excellence",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/laboratory.html",
+      "text": "State Key Laboratories",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/institutes.html",
+      "text": "Research Institutes & Centres",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/institutes/research-units.html",
+      "text": "Faculty / Department Research Units",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/research/institutes/joint-research-units.html",
+      "text": "Joint Research Units",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/campus/campus.html",
+      "text": "Campus",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/campus/sustainable-campus.html",
+      "text": "Sustainable Campus",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/campus/accommodation.html",
+      "text": "Facilities & Services",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/campus/health-safety.html",
+      "text": "Health & Safety",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.focus.cuhk.edu.hk/en/expanded-art-museum-blends-past-with-present/?utm_source=cuhk.edu.hk&utm_medium=sitelink&utm_campaign=heroBanner",
+      "text": "Expanded Art Museum blends past with presentArchitect Rocco Yim designs a campus landmark for CUHK treasures",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.focus.cuhk.edu.hk/en/a-bridge-between-cultures-at-the-hong-kong-palace-museum/?utm_source=cuhk.edu.hk&utm_medium=sitelink&utm_campaign=heroBanner",
+      "text": "A bridge between cultures at the Hong Kong Palace MuseumCUHK Library’s rare books illuminate 350 years of exchange between France and China",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://apps.cuhk.edu.hk/cuhkwebsite/rss/press-release-rss.aspx",
+      "text": "",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.cuhk.edu.hk/strategicplan/cuhk2025",
+      "text": "Strategic Plan 2021—2025",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.hro.cuhk.edu.hk/en-gb/career/senior-appointments",
+      "text": "Senior Appointments",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.hro.cuhk.edu.hk/en-gb/career/vc-early-career-professorships/about",
+      "text": "Search for Early Career Professors",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.cneo.cuhk.edu.hk/en/mainland-development/beijing/cuhk-beijing-centre/",
+      "text": "CUHK Beijing Centre​​",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.cneo.cuhk.edu.hk/en/mainland-development/shanghai/shanghai-centre/",
+      "text": "CUHK Shanghai Centre​",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/others/campus-operations-under-adverse-weather.html",
+      "text": "Campus Operations Under Adverse Weather Conditions​",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://www.oal.cuhk.edu.hk/internationalnetworks/",
+      "text": "APRU - The Voice of Knowledge & Innovation",
+      "title": "APRU - The Voice of Knowledge & Innovation",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.cpr.cuhk.edu.hk/en/press_detail.php?id=3238",
+      "text": "5 Years plus Caring Organisation",
+      "title": "5 Years plus Caring Organisation",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.cpr.cuhk.edu.hk/en/announcement/cuhk-holds-flag-raising-ceremony-on-its-61st-foundation-day/",
+      "text": "CUHK holds flag-raising ceremony on its 61st Foundation Day",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/university/events.html",
+      "text": "CUHK Programme Taster Fair 2025",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/whats-on/focus/#mode=channel&id=15&selecteditemid=16600",
+      "text": "CUHK in Focus",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://apps.cuhk.edu.hk/cuhkwebsite/rss/whats-on-rss.aspx?id=13",
+      "text": "",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.focus.cuhk.edu.hk/en/20250312/choh-ming-li-and-wei-lun-professorships-awarded/060-congregation/?utm_source=cuhk.edu.hk&utm_medium=sitelink&utm_campaign=moreOfCUHK",
+      "text": "Exploring new horizons at Minor Programme and Learning Expo",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "http://apps.cuhk.edu.hk/cuhkwebsite/rss/whats-on-rss.aspx?id=10",
+      "text": "",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/contact.html",
+      "text": "Contact Us",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/site-information.html",
+      "text": "Site Map",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/comment.html",
+      "text": "Send Your Comment",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/web-accessibility.html",
+      "text": "Accessibility",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/privacy.html",
+      "text": "Privacy Policy",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://cuhk.edu.hk/english/disclaimer.html",
+      "text": "Disclaimer",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    },
+    {
+      "href": "https://www.hro.cuhk.edu.hk/en-gb/career-opportunities",
+      "text": "Career Opportunities",
+      "title": "",
+      "base_domain": "cuhk.edu.hk"
+    }
+  ],
+  "external": [
+    {
+      "href": "javascript:;",
+      "text": "",
+      "title": "",
+      "base_domain": ""
+    },
+    {
+      "href": "https://cuhk.canto.global/v/CUHKVisuals/?utm_source=cuhk.edu.hk&utm_medium=sitelink&utm_campaign=home",
+      "text": "CUHK Visuals",
+      "title": "",
+      "base_domain": "canto.global"
+    },
+    {
+      "href": "https://www.cuhk.edu.cn/en",
+      "text": "The Chinese University of Hong Kong, Shenzhen",
+      "title": "The Chinese University of Hong Kong, Shenzhen",
+      "base_domain": "cuhk.edu.cn"
+    },
+    {
+      "href": "https://www.eoc.org.hk/en/news-and-events/events-and-programmes/eoc-events/inclusion-charter",
+      "text": "The Racial Diversity and Inclusion Charter for Employers",
+      "title": "The Racial Diversity and Inclusion Charter for Employers",
+      "base_domain": "eoc.org.hk"
+    },
+    {
+      "href": "https://www.web-accessibility.hk/en/",
+      "text": "Triple Gold Award at the Web Accessibility Recognition Scheme",
+      "title": "Triple Gold Award at the Web Accessibility Recognition Scheme",
+      "base_domain": "web-accessibility.hk"
+    },
+    {
+      "href": "https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html",
+      "text": "Government-Funded Organisation",
+      "title": "Government-Funded Organisation",
+      "base_domain": "ugc.edu.hk"
+    },
+    {
+      "href": "https://www.youtube.com/CUHKchannel",
+      "text": "CUHK Channel",
+      "title": "",
+      "base_domain": "youtube.com"
+    },
+    {
+      "href": "https://youtu.be/1atX0-BxJ3E",
+      "text": "University Education Award 2024",
+      "title": "",
+      "base_domain": "youtu.be"
+    },
+    {
+      "href": "https://www.facebook.com/CUHKofficial",
+      "text": "",
+      "title": "",
+      "base_domain": "facebook.com"
+    },
+    {
+      "href": "https://www.youtube.com/user/CUHKchannel",
+      "text": "",
+      "title": "",
+      "base_domain": "youtube.com"
+    },
+    {
+      "href": "https://www.instagram.com/thechineseuniversityofhongkong/",
+      "text": "",
+      "title": "",
+      "base_domain": "instagram.com"
+    },
+    {
+      "href": "https://www.linkedin.com/school/13045",
+      "text": "",
+      "title": "",
+      "base_domain": "linkedin.com"
+    },
+    {
+      "href": "https://twitter.com/cuhkofficial",
+      "text": "",
+      "title": "",
+      "base_domain": "twitter.com"
+    },
+    {
+      "href": "https://www.weibo.com/cuhkofficial",
+      "text": "",
+      "title": "",
+      "base_domain": "weibo.com"
+    },
+    {
+      "href": "https://www.xiaohongshu.com/user/profile/64f6cdad00000000020110c9?xhsshare=CopyLink&appuid=641b0946000000001201173c&apptime=1695044808",
+      "text": "",
+      "title": "",
+      "base_domain": "xiaohongshu.com"
+    }
+  ]
+}
