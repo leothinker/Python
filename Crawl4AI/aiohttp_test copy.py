@@ -6,7 +6,7 @@ import aiohttp
 async def main():
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get("www.diversityinc.com:443") as response:
+            async with session.get("https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf") as response:
                 print("Status:", response.status)
                 print("Content-type:", response.headers["content-type"])
 
