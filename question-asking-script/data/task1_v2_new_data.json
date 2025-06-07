@@ -1,0 +1,1532 @@
+[
+ {
+  "QID": 96,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "How to update model parameters through machine learning algorithm in artificial intelligence model training?"
+ },
+ {
+  "QID": 97,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "How is the application of artificial intelligence in self-driving cars implemented?"
+ },
+ {
+  "QID": 98,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "What are the applications of artificial intelligence in medical diagnosis?"
+ },
+ {
+  "QID": 101,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "What are the three levels of reasoning in artificial intelligence?"
+ },
+ {
+  "QID": 104,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "What is the process of training and testing AI models?"
+ },
+ {
+  "QID": 105,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "In artificial intelligence, how to classify images by convolutional neural networks?"
+ },
+ {
+  "QID": 106,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "What is the basic principle of automatic Speech recognition (ASR)?"
+ },
+ {
+  "QID": 107,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "How does AI process traffic light signals in self-driving cars?"
+ },
+ {
+  "QID": 108,
+  "Group": 1,
+  "Language": "en",
+  "Questions": "What are the applications of artificial intelligence in medical diagnosis?"
+ },
+ {
+  "QID": 317,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "五个伦理原则中隐私原则是什么？"
+ },
+ {
+  "QID": 318,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "伦理原则在人工智能发展中扮演着什么角色？"
+ },
+ {
+  "QID": 351,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "自动语音的评估是如何实现的？"
+ },
+ {
+  "QID": 369,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "在规则推理的 20 次黄灯实验中，假设成功刹车次数为16次，那成功刹车次数的百分比是多少？"
+ },
+ {
+  "QID": 374,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "自動語音識別的評估中中文自动语音识别评估是什么？\n"
+ },
+ {
+  "QID": 378,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "自動語音識別的評估中英文自动语音识别评估的区别是什么？"
+ },
+ {
+  "QID": 381,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "人工智能机器人是如何从过去的经验中学习的？"
+ },
+ {
+  "QID": 382,
+  "Group": 3,
+  "Language": "ch",
+  "Questions": "人类和人工智能在图像分类方面有哪些区别？"
+ },
+ {
+  "QID": 383,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the recommendations of UNESCO on ethical issues related to artificial intelligence?"
+ },
+ {
+  "QID": 384,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the five common ethical principles of artificial intelligence?"
+ },
+ {
+  "QID": 385,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What role does the principle of transparency play in artificial intelligence?"
+ },
+ {
+  "QID": 386,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to ensure the transparency of artificial intelligence applications?"
+ },
+ {
+  "QID": 387,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the principles of justice and fairness?"
+ },
+ {
+  "QID": 388,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the benefits and drawbacks of using artificial intelligence in job interviews?"
+ },
+ {
+  "QID": 389,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the functions of airport security robots?"
+ },
+ {
+  "QID": 390,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the Beneficence of AI?"
+ },
+ {
+  "QID": 391,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the moral dilemma of autonomous vehicle?"
+ },
+ {
+  "QID": 392,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does artificial intelligence affect personal privacy?"
+ },
+ {
+  "QID": 393,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How many member states have adopted UNESCO's ethical recommendations for artificial intelligence?"
+ },
+ {
+  "QID": 394,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the importance of transparency principle in artificial intelligence applications?"
+ },
+ {
+  "QID": 395,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to explain the erroneous decisions made by artificial intelligence models in image recognition?"
+ },
+ {
+  "QID": 396,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to ensure compliance with the principle of \"responsibility\" in the development of artificial intelligence?"
+ },
+ {
+  "QID": 397,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the privacy principle among the five ethical principles?"
+ },
+ {
+  "QID": 398,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What role do ethical principles play in the development of AI?"
+ },
+ {
+  "QID": 399,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How do computers understand images?"
+ },
+ {
+  "QID": 400,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the pixels in an image?"
+ },
+ {
+  "QID": 401,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to use numbers to represent colors in an image?"
+ },
+ {
+  "QID": 402,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is grayscale image?"
+ },
+ {
+  "QID": 403,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does artificial intelligence use convolutional neural networks (CNN) to classify images?"
+ },
+ {
+  "QID": 404,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the basic concepts of digital images?"
+ },
+ {
+  "QID": 405,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to classify images into bird images or zebra images?"
+ },
+ {
+  "QID": 406,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does artificial intelligence use convolutional neural networks to classify images?"
+ },
+ {
+  "QID": 407,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is a pixel and what is its role in an image?"
+ },
+ {
+  "QID": 408,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How are colors represented by numbers in an image?"
+ },
+ {
+  "QID": 409,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the difference between grayscale images and color images?"
+ },
+ {
+  "QID": 410,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to use numbers to represent colors?"
+ },
+ {
+  "QID": 411,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is image classification and what are its applications?"
+ },
+ {
+  "QID": 412,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does artificial intelligence distinguish between different categories of images?"
+ },
+ {
+  "QID": 413,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How do humans classify images based on the characteristics of objects?"
+ },
+ {
+  "QID": 414,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is Convolutional Neural Network (CNN)"
+ },
+ {
+  "QID": 415,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How humans classify images"
+ },
+ {
+  "QID": 416,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How artificial intelligence classifies images"
+ },
+ {
+  "QID": 417,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the basic concept of Automatic Speech Recognition (ASR)?"
+ },
+ {
+  "QID": 418,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does automatic speech recognition transcribe speech into text?"
+ },
+ {
+  "QID": 419,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What factors affect the performance of automatic speech recognition?"
+ },
+ {
+  "QID": 420,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the evaluation methods for automatic speech recognition?"
+ },
+ {
+  "QID": 421,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is Natural Language Processing (NLP) and how is it implemented on a computer?"
+ },
+ {
+  "QID": 422,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How do computers understand words?"
+ },
+ {
+  "QID": 423,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the applications of natural language processing?"
+ },
+ {
+  "QID": 424,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does word embedding help computers understand words?"
+ },
+ {
+  "QID": 425,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is an automatic speech recognition pipeline?"
+ },
+ {
+  "QID": 426,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to evaluate the performance of automatic speech recognition?"
+ },
+ {
+  "QID": 427,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is automatic speech recognition?"
+ },
+ {
+  "QID": 428,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the output units of the automatic speech recognition pipeline?"
+ },
+ {
+  "QID": 429,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What should automatic speech recognition do to recognize different sounds as phonemes or notes?"
+ },
+ {
+  "QID": 430,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What should automatic speech recognition do to recognize words or characters?"
+ },
+ {
+  "QID": 431,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the evaluation of automatic speech recognition?"
+ },
+ {
+  "QID": 432,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the possible outputs of a speech recognition system?"
+ },
+ {
+  "QID": 433,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the three main levels of human reasoning?"
+ },
+ {
+  "QID": 434,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the main decision-making processes of artificial intelligence robots?"
+ },
+ {
+  "QID": 435,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What reasoning methods are commonly used by artificial intelligence robots?"
+ },
+ {
+  "QID": 436,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What decisions do autonomous vehicle need to make at the traffic lights?"
+ },
+ {
+  "QID": 437,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What should a autonomous vehicle do when the traffic light signal is red?"
+ },
+ {
+  "QID": 438,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What should a autonomous vehicle do when the traffic light signal is green?"
+ },
+ {
+  "QID": 439,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What should a autonomous vehicle do when the traffic light signal is yellow?"
+ },
+ {
+  "QID": 440,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the main functions of a traffic light decision simulator?"
+ },
+ {
+  "QID": 441,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How is functional reasoning operated in simulating traffic light decisions?"
+ },
+ {
+  "QID": 442,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How does rule-based reasoning operate in simulating traffic light decisions?"
+ },
+ {
+  "QID": 443,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How is knowledge reasoning operated in simulating traffic light decisions?"
+ },
+ {
+  "QID": 444,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How do the speed of a car and its distance from traffic lights affect braking decisions in rule-based reasoning?"
+ },
+ {
+  "QID": 445,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What factors can affect braking decisions?"
+ },
+ {
+  "QID": 446,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to define \"low-speed driving\" and \"high-speed driving\"?"
+ },
+ {
+  "QID": 447,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How to change the braking strength by pressing a button in knowledge reasoning?"
+ },
+ {
+  "QID": 448,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How do weather and road conditions affect braking decisions in knowledge reasoning?"
+ },
+ {
+  "QID": 449,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "In the 20 yellow light experiments of rule-based reasoning, assuming 16 successful braking attempts, what is the percentage of successful braking attempts?"
+ },
+ {
+  "QID": 450,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What problems may arise from the use of artificial intelligence technology in monitoring and tracking?"
+ },
+ {
+  "QID": 451,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "If there is unfair treatment in artificial intelligence decision-making, which principle may be violated?"
+ },
+ {
+  "QID": 452,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the potential consequences of artificial intelligence virtual assistants collecting user personal data?"
+ },
+ {
+  "QID": 453,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the most important part of reasoning for robots"
+ },
+ {
+  "QID": 454,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the Chinese automatic speech recognition assessment in the evaluation of automatic speech recognition?"
+ },
+ {
+  "QID": 455,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What elements are not needed to evaluate the performance of a speech recognizer?"
+ },
+ {
+  "QID": 456,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the process of reasoning based on collected information?"
+ },
+ {
+  "QID": 457,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What reasoning method enables artificial intelligence to learn from past data and establish relationships between relevant parameters to obtain better solutions?"
+ },
+ {
+  "QID": 458,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What is the difference between the assessment of automatic speech recognition in Chinese and English?"
+ },
+ {
+  "QID": 459,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "Generally speaking, which reasoning method requires the most information to process braking decisions?"
+ },
+ {
+  "QID": 460,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "In what reasoning can we increase the number of instructions to enable robots to process tasks more accurately?"
+ },
+ {
+  "QID": 461,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "How do artificial intelligence robots learn from past experiences?"
+ },
+ {
+  "QID": 462,
+  "Group": 3,
+  "Language": "en",
+  "Questions": "What are the differences between humans and artificial intelligence in image classification? "
+ },
+ {
+  "QID": 473,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "第四次工業革命時期當出現的工作是什么？"
+ },
+ {
+  "QID": 474,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "ChatGPT在提供人际关系建议方面是如何工作的？"
+ },
+ {
+  "QID": 475,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "请简单介绍一下聊天机器人？"
+ },
+ {
+  "QID": 476,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "第四次工业革命結合了哪些新科技？"
+ },
+ {
+  "QID": 477,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "使用ChatGPT撰写儿童图书的过程是怎样的？"
+ },
+ {
+  "QID": 478,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "ChatGPT如何总结文本内容？"
+ },
+ {
+  "QID": 479,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "ChatGPT如何解释复杂的概念？"
+ },
+ {
+  "QID": 480,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "ChatGPT提供翻译服务的工作原理是什么？"
+ },
+ {
+  "QID": 481,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能如何影响不同行业的工作？"
+ },
+ {
+  "QID": 482,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "第四次工业革命中人工智能的角色是什么？"
+ },
+ {
+  "QID": 483,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "为什么持续学习对于适应人工智能驱动的未来工作至关重要？"
+ },
+ {
+  "QID": 484,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "学习人工智能对未来工作的重要性是什么？"
+ },
+ {
+  "QID": 485,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "社会公益的定义及其重要性是什么？"
+ },
+ {
+  "QID": 486,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "科技如何促进社会公益？"
+ },
+ {
+  "QID": 487,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "2021年开发的人工智能系统如何帮助COVID-19的检测？"
+ },
+ {
+  "QID": 488,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能在处理COVID-19期间的医学图像数据中扮演了什么角色？"
+ },
+ {
+  "QID": 490,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能在图像设计等领域可能取代人类的工作吗？"
+ },
+ {
+  "QID": 491,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能的哪些进步可能导致工作岗位的流失？"
+ },
+ {
+  "QID": 492,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能的潜在好处有哪些？"
+ },
+ {
+  "QID": 493,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能可能对人类社会造成哪些伤害？"
+ },
+ {
+  "QID": 494,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "如何平衡人工智能的利弊？"
+ },
+ {
+  "QID": 496,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "设计思考的五个步骤是什么？"
+ },
+ {
+  "QID": 497,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "如何应用设计思考来优化人工智能的解决方案？"
+ },
+ {
+  "QID": 500,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能在教育领域的潜在应用是什么？"
+ },
+ {
+  "QID": 501,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能如何帮助改善医疗保健系统？"
+ },
+ {
+  "QID": 502,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人工智能在环境监测和保护方面的潜力是什么？"
+ },
+ {
+  "QID": 504,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "CNN中的卷积层是如何自动提取图像特征的？"
+ },
+ {
+  "QID": 505,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "在CNN中，什么是过滤器，它们有什么功能？"
+ },
+ {
+  "QID": 506,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "CNN训练过程中如何通过过滤器来识别不同的图像特征？"
+ },
+ {
+  "QID": 508,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "在CNN中，如何处理输入的原始图像以进行特征提取？"
+ },
+ {
+  "QID": 509,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "卷积运算在图像处理中的基本功能是什么？"
+ },
+ {
+  "QID": 510,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "如何通过数字表示来准备图像和过滤器进行卷积运算？"
+ },
+ {
+  "QID": 511,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "在卷积运算中，图像是如何被分解成小块进行处理的？"
+ },
+ {
+  "QID": 512,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "卷积运算的结果如何帮助我们识别图像中的特征？"
+ },
+ {
+  "QID": 514,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "卷积运算如何帮助CNN在图像中定位特定特征？"
+ },
+ {
+  "QID": 515,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "举例说明卷积运算如何应用于实际的图像识别任务。"
+ },
+ {
+  "QID": 517,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "图像分割、物体检测等任务中如何利用CNN？"
+ },
+ {
+  "QID": 518,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "CNN在人脸识别技术中扮演什么角色？"
+ },
+ {
+  "QID": 519,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "自动驾驶车辆中如何集成和应用CNN？"
+ },
+ {
+  "QID": 520,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "为什么说CNN特别适合处理图像数据？"
+ },
+ {
+  "QID": 522,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "人脸识别技术在安全和监控领域的应用是什么？"
+ },
+ {
+  "QID": 524,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "为什么说模拟可以为AI提供有效的训练环境？"
+ },
+ {
+  "QID": 525,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "使用模拟技术在AI模型训练中有哪些优势？"
+ },
+ {
+  "QID": 527,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "模拟环境如何帮助加强AI模型的哪些方面？"
+ },
+ {
+  "QID": 529,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "强化学习（RL）在模拟训练中的作用是什么？"
+ },
+ {
+  "QID": 530,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "自动驾驶AI模型中如何结合使用监督式学习和强化学习？"
+ },
+ {
+  "QID": 531,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "在模拟环境中，如何评价和优化AI模型的性能？"
+ },
+ {
+  "QID": 533,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "为什么监督式学习需要大量的标注数据？"
+ },
+ {
+  "QID": 534,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "强化学习为什么可以不需要提前准备数据？"
+ },
+ {
+  "QID": 535,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "强化学习中，如何通过奖励和惩罚来训练模型？"
+ },
+ {
+  "QID": 537,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "举例说明监督式学习和强化学习在现实世界中的应用。"
+ },
+ {
+  "QID": 539,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "模拟环境如何为AI提供安全的训练场景？"
+ },
+ {
+  "QID": 540,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "在AI模型的评估中，模拟技术扮演什么角色？"
+ },
+ {
+  "QID": 542,
+  "Group": 4,
+  "Language": "ch",
+  "Questions": "未来模拟技术在AI发展中可能扮演的角色是什么？"
+ },
+ {
+  "QID": 543,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "In which domains has artificial intelligence currently replaced human jobs?"
+ },
+ {
+  "QID": 544,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What impact does technological automation have on the job market?"
+ },
+ {
+  "QID": 545,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why is it important to understand future work trends across industries?"
+ },
+ {
+  "QID": 546,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How have people adapted to the changes brought about by the industrial revolution?"
+ },
+ {
+  "QID": 547,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How do emerging technologies change our understanding of the nature of work?"
+ },
+ {
+  "QID": 548,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can learning new knowledge and skills help improve competitiveness in employment?"
+ },
+ {
+  "QID": 549,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does AI's automation technology change specific professions?"
+ },
+ {
+  "QID": 550,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What role does AI play in cleaning and data entry work?"
+ },
+ {
+  "QID": 551,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the application of AI in inspecting pollutants?"
+ },
+ {
+  "QID": 552,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are the main functions of chatbots?"
+ },
+ {
+  "QID": 553,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does ChatGPT solve complex mathematical problems?"
+ },
+ {
+  "QID": 554,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does ChatGPT provide advice on interpersonal relationships?"
+ },
+ {
+  "QID": 555,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How capable is ChatGPT in writing code?"
+ },
+ {
+  "QID": 556,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does ChatGPT assist in analyzing market trends?"
+ },
+ {
+  "QID": 557,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the process of using ChatGPT to write children's books?"
+ },
+ {
+  "QID": 558,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does ChatGPT summarize text content?"
+ },
+ {
+  "QID": 559,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does ChatGPT explain complex concepts?"
+ },
+ {
+  "QID": 560,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the working principle of ChatGPT's translation service?"
+ },
+ {
+  "QID": 561,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does artificial intelligence affect jobs in different industries?"
+ },
+ {
+  "QID": 562,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the role of artificial intelligence in the fourth industrial revolution?"
+ },
+ {
+  "QID": 563,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why is continuous learning essential for adapting to AI-driven future work?"
+ },
+ {
+  "QID": 564,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the importance of learning about artificial intelligence for future work?"
+ },
+ {
+  "QID": 565,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the definition and significance of social good?"
+ },
+ {
+  "QID": 566,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can technology promote social good?"
+ },
+ {
+  "QID": 567,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How did the AI system developed in 2021 help with COVID-19 detection?"
+ },
+ {
+  "QID": 568,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What role did artificial intelligence play in handling medical image data during COVID-19?"
+ },
+ {
+  "QID": 569,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "In what ways might artificial intelligence pose a threat to the job market?"
+ },
+ {
+  "QID": 570,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Could artificial intelligence replace human jobs in fields such as graphic design?"
+ },
+ {
+  "QID": 571,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Which advancements in artificial intelligence could lead to job loss?"
+ },
+ {
+  "QID": 572,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are the potential benefits of artificial intelligence?"
+ },
+ {
+  "QID": 573,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What harms could artificial intelligence inflict on human society?"
+ },
+ {
+  "QID": 574,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can we balance the pros and cons of artificial intelligence?"
+ },
+ {
+  "QID": 575,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can design thinking help artificial intelligence solve problems?"
+ },
+ {
+  "QID": 576,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are the five steps of design thinking?"
+ },
+ {
+  "QID": 577,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can design thinking be applied to optimize AI solutions?"
+ },
+ {
+  "QID": 578,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why is design thinking crucial for the development of artificial intelligence?"
+ },
+ {
+  "QID": 579,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "In what ways can artificial intelligence be applied to improve industrial production efficiency?"
+ },
+ {
+  "QID": 580,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What potential applications does artificial intelligence have in the field of education?"
+ },
+ {
+  "QID": 581,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can artificial intelligence help improve the healthcare system?"
+ },
+ {
+  "QID": 582,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the potential of artificial intelligence in environmental monitoring and protection?"
+ },
+ {
+  "QID": 583,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the main role of Convolutional Neural Networks (CNNs) in computer vision tasks?"
+ },
+ {
+  "QID": 584,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How do convolutional layers in CNNs automatically extract image features?"
+ },
+ {
+  "QID": 585,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are filters in CNNs, and what functions do they serve?"
+ },
+ {
+  "QID": 586,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does the CNN training process identify different image features through filters?"
+ },
+ {
+  "QID": 587,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How is feature detection implemented through convolutional operations in convolutional layers?"
+ },
+ {
+  "QID": 588,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are the original images processed in CNNs for feature extraction?"
+ },
+ {
+  "QID": 589,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the basic function of convolutional operations in image processing?"
+ },
+ {
+  "QID": 590,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are images and filters represented numerically for convolutional operations?"
+ },
+ {
+  "QID": 591,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are images divided into small blocks for processing in convolutional operations?"
+ },
+ {
+  "QID": 592,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How do the results of convolutional operations help us recognize features in images?"
+ },
+ {
+  "QID": 593,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why is the convolutional operation a key step in image recognition?"
+ },
+ {
+  "QID": 594,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does convolutional operation help CNNs locate specific features in images?"
+ },
+ {
+  "QID": 595,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Provide examples of how convolutional operations are applied to real-world image recognition tasks."
+ },
+ {
+  "QID": 596,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Besides image classification, what other main applications do CNNs have?"
+ },
+ {
+  "QID": 597,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are CNNs utilized in tasks such as image segmentation and object detection?"
+ },
+ {
+  "QID": 598,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What role does CNN play in facial recognition technology?"
+ },
+ {
+  "QID": 599,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are CNNs integrated and applied in autonomous vehicles?"
+ },
+ {
+  "QID": 600,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why is CNN particularly suited for processing image data?"
+ },
+ {
+  "QID": 601,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does the AI chip in CUHK JC iCar achieve 30 facial recognitions per second?"
+ },
+ {
+  "QID": 602,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are the applications of facial recognition technology in security and surveillance fields?"
+ },
+ {
+  "QID": 603,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does simulation technology assist the development of artificial intelligence?"
+ },
+ {
+  "QID": 604,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why is simulation considered an effective training environment for AI?"
+ },
+ {
+  "QID": 605,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are the advantages of using simulation technology in AI model training?"
+ },
+ {
+  "QID": 606,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does artificial intelligence enhance the effects of simulation by providing data and algorithms?"
+ },
+ {
+  "QID": 607,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does the simulation environment help strengthen various aspects of AI models?"
+ },
+ {
+  "QID": 608,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How is Supervised Learning (SL) implemented in simulation training?"
+ },
+ {
+  "QID": 609,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What is the role of Reinforcement Learning (RL) in simulation training?"
+ },
+ {
+  "QID": 610,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are Supervised Learning and Reinforcement Learning combined in autonomous driving AI models?"
+ },
+ {
+  "QID": 611,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How is the performance of AI models evaluated and optimized in a simulated environment?"
+ },
+ {
+  "QID": 612,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What are the differences between Supervised Learning and Reinforcement Learning in the field of AI?"
+ },
+ {
+  "QID": 613,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why does Supervised Learning require a large amount of labeled data?"
+ },
+ {
+  "QID": 614,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why can Reinforcement Learning proceed without prior data preparation?"
+ },
+ {
+  "QID": 615,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How are rewards and punishments used to train models in Reinforcement Learning?"
+ },
+ {
+  "QID": 616,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How is the application of Supervised Learning and Reinforcement Learning balanced in a simulated environment?"
+ },
+ {
+  "QID": 617,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Provide examples of how Supervised Learning and Reinforcement Learning are applied in the real world."
+ },
+ {
+  "QID": 618,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "Why can simulation save costs and labor in AI research and development?"
+ },
+ {
+  "QID": 619,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How does the simulation environment provide a safe training scenario for AI?"
+ },
+ {
+  "QID": 620,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What role does simulation technology play in the evaluation of AI models?"
+ },
+ {
+  "QID": 621,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "How can we ensure that data in the simulation environment effectively supports AI learning?"
+ },
+ {
+  "QID": 622,
+  "Group": 4,
+  "Language": "en",
+  "Questions": "What role might simulation technology play in the future development of AI"
+ },
+ {
+  "QID": 623,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "AI怎么減少人類的工作量？"
+ },
+ {
+  "QID": 624,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "減少人類的工作量？"
+ },
+ {
+  "QID": 625,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "人工智能具体可以做什么什么事情？"
+ },
+ {
+  "QID": 626,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "未来工作与人工智能的关系"
+ },
+ {
+  "QID": 629,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "機器人是否會搶走人类现有的大部分职业工作嗎？"
+ },
+ {
+  "QID": 632,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "人類的推理相较于人工智能机器人的推理有何区别？"
+ },
+ {
+  "QID": 634,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "机器人的推理能力有哪些？"
+ },
+ {
+  "QID": 636,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "NLP的定义"
+ },
+ {
+  "QID": 637,
+  "Group": 5,
+  "Language": "zh",
+  "Questions": "列举一个ChatGPT 生成的詩歌的例子"
+ },
+ {
+  "QID": 704,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "Will robots take away most of humanity's existing professional jobs?"
+ },
+ {
+  "QID": 707,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What is the difference between human reasoning and AI bot reasoning?"
+ },
+ {
+  "QID": 712,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "Give an example of a ChatGPT-generated poem."
+ },
+ {
+  "QID": 758,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "How building AI projects can eliminate user bias?"
+ },
+ {
+  "QID": 759,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "How to Measure the Quality of an AI Model Solution SubjectivelyHow to Measure the Quality of an AI Model Solution Subjectively?"
+ },
+ {
+  "QID": 760,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What are the factors influencing the choice of AI projects?"
+ },
+ {
+  "QID": 761,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "How to ensure the diversity and accuracy of data when building an AI project?"
+ },
+ {
+  "QID": 762,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What factors influence the third stage: ideation – challenging assumptions and creating ideasWhat factors influence the third stage: ideation – challenging assumptions and creating ideas?"
+ },
+ {
+  "QID": 763,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What factors will affect the second stage: Definition – State the user's needs and problems?"
+ },
+ {
+  "QID": 764,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What factors influence Phase 1: Ask – Research the user's needs?"
+ },
+ {
+  "QID": 766,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "How to build an app to determine if a plant is diseased or needs wateringHow to build an app to determine if a plant is diseased or needs watering？"
+ },
+ {
+  "QID": 767,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What type of training data is needed to guide model learning when designing a yoga instructor app？"
+ },
+ {
+  "QID": 768,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "Establish a fitness trainer based on an AI program to teach a specific group of users, what are the AI design steps？"
+ },
+ {
+  "QID": 770,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "How to think about building a path for a car/robot on a track with obstacles？"
+ },
+ {
+  "QID": 772,
+  "Group": 5,
+  "Language": "en",
+  "Questions": "What are the five phases of project design and development in Module 6?"
+ }
+]
