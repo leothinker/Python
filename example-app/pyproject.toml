@@ -1,0 +1,17 @@
+[project]
+name = "example-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+]
+
+[tool.uv.sources]
+httpx = { git = "https://github.com/encode/httpx" }
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.1",
+]
