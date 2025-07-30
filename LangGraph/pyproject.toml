@@ -1,11 +1,11 @@
 [project]
-name = "react-agent"
+name = "langgraph-test"
 version = "0.0.1"
 description = "Starter template for making a custom Reasoning and Action agent (using tool calling) in LangGraph."
 authors = [
     { name = "William Fu-Hinthorn", email = "13333726+hinthornw@users.noreply.github.com" },
 ]
-requires-python = ">=3.11,<4.0"
+requires-python = "==3.10.4"
 dependencies = [
     "langgraph>=0.2.6",
     "langchain-openai>=0.1.22",
