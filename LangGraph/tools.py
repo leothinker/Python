@@ -1,9 +1,9 @@
-from typing import Any, Callable, List, Optional, cast
+from typing import Any, Callable, List, cast
 
 from configuration import Configuration
 
 
-async def search(query: str) -> Optional[dict[str, Any]]:
+async def search(query: str) -> dict[str, Any] | None:
     """Search for general web results.
 
     This function performs a search using the Tavily search engine, which is designed

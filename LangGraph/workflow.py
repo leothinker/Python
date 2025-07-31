@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from datetime import UTC, datetime
+from datetime import datetime
 from typing import Dict, List, Literal, Sequence, cast
 from zoneinfo import ZoneInfo
 
@@ -18,9 +18,7 @@ from tools import TOOLS
 
 @dataclass
 class InputState:
-    messages: Annotated[Sequence[AnyMessage], add_messages] = field(
-        default_factory=list
-    )
+    messages: Annotated[Sequence[AnyMessage], add_messages] = field(default_factory=list)
 
 
 @dataclass
@@ -47,9 +45,7 @@ async def call_model(state: State) -> Dict[str, List[AIMessage]]:
 
     response = cast(
         AIMessage,
-        await model.ainvoke(
-            [{"role": "system", "content": system_message}, *state.messages]
-        ),
+        await model.ainvoke([{"role": "system", "content": system_message}, *state.messages]),
     )
 
     if state.is_last_step and response.tool_calls:
