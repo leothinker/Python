@@ -1,0 +1,10 @@
+[project]
+name = "my-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.20",
+    "google-genai>=1.31.0",
+]
